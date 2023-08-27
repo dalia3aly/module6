@@ -1,4 +1,4 @@
-//Some Parts were imported/transformed into JSX from the previous Calculator App
+//Exercise 6 - Some Parts were imported/transformed into JSX from the previous Calculator App
 
 import React, { useState } from 'react';
 

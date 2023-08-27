@@ -107,18 +107,6 @@ button {
   margin: 10%;
 }
 
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 50px;
-  margin: 30%;
-  font-family: Arial, sans-serif;
-  background-image: "maths.jpg";
-  border: #000000;
-  border-radius: 10px;
-}
-
 
 .calculator {
   margin: auto;
